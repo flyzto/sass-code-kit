@@ -10,7 +10,7 @@
         "prefix",
         "prefixer"
     ],
-    "repository": "https://github.com/atom/sass-code-kit",
+    "repository": "https://github.com/flyzto/sass-code-kit",
     "license": "MIT",
     "engines": {
         "atom": ">=1.0.0"
