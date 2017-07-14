@@ -1,0 +1,28 @@
+{
+    "context-menu": {
+        ".tree-view .file": [{
+            "label": "Compile Sass",
+            "command": "sass-code-kit:sass-compile",
+            "id": "sass-code-kit-context-menu-compile"
+        }]
+    },
+    "menu": [{
+        "label": "Packages",
+        "submenu": [{
+            "label": "Sass Code Kit",
+            "submenu": [{
+                "label": "Compile Sass",
+                "command": "sass-code-kit:sass-compile"
+            }, {
+                "label": "Sorting Rules",
+                "command": "sass-code-kit:sass-sorting"
+            }, {
+                "label": "Insert Timestamp",
+                "command": "sass-code-kit:insert-timestamp"
+            }, {
+                "label": "Remove Timestamp",
+                "command": "sass-code-kit:remove-timestamp"
+            }]
+        }]
+    }]
+}

@@ -1,0 +1,24 @@
+{
+    "name": "sass-code-kit",
+    "main": "./lib/sass-code-kit",
+    "version": "0.0.1",
+    "description": "Compile Sass and Prefix CSS",
+    "keywords": [
+        "css",
+        "scss",
+        "sass",
+        "prefix",
+        "prefixer"
+    ],
+    "repository": "https://github.com/atom/sass-code-kit",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0"
+    },
+    "dependencies": {
+        "autoprefixer": ">=6.3.1",
+        "postcss": ">=5.0.14",
+        "postcss-scss": ">=0.3.0",
+        "postcss-sorting": ">=1.6.1"
+    }
+}
