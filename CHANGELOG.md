@@ -1,9 +1,9 @@
-## 0.2.3 - Cache Buster
+## 0.3.0 - Cache Buster
 * Add Cache Buster for static resources
 
 ## 0.2.0 - First Publish
 * apm publish first
 
-## 0.0.1 - First Release
+## 0.1.0 - First Release
 * Every feature added
 * Every bug fixed
