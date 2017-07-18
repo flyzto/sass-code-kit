@@ -17,11 +17,11 @@
                 "label": "Sorting Rules",
                 "command": "sass-code-kit:sass-sorting"
             }, {
-                "label": "Insert Timestamp",
-                "command": "sass-code-kit:insert-timestamp"
+                "label": "Insert Cache Buster",
+                "command": "sass-code-kit:insert-cache-buster"
             }, {
-                "label": "Remove Timestamp",
-                "command": "sass-code-kit:remove-timestamp"
+                "label": "Remove Cache Buster",
+                "command": "sass-code-kit:remove-cache-buster"
             }]
         }]
     }]
