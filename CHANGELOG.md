@@ -1,3 +1,6 @@
+## 0.4.2
+* Add notifications when postcss-sorting is no rules config file.
+
 ## 0.3.0 - Cache Buster
 * Add Cache Buster for static resources
 
