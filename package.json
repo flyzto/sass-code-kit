@@ -1,7 +1,7 @@
 {
   "name": "sass-code-kit",
   "main": "./lib/sass-code-kit",
-  "version": "0.5.0",
+  "version": "1.0.0",
   "description": "Compile Sass and Prefix CSS",
   "keywords": [
     "css",
