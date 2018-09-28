@@ -1,8 +1,9 @@
 # sass-code-kit package
 
-Compile SASS file to CSS file and Prefix the CSS with [Autoprefixer](https://github.com/postcss/autoprefixer)
+1. Compile SCSS to CSS whith [node-sass](https://github.com/sass/node-sass)
+2. Prefix the CSS with [Autoprefixer](https://github.com/postcss/autoprefixer)
 
-Based on [Sass Ruby gem](http://sass-lang.com/install)
+**NOTICE: In version 1.0.0, Sass attribute 'includePath' has been changed to 'includePaths', If you have used the old version before, please refill the configuration item**
 
 Project config file example (package.json)
 
@@ -12,7 +13,7 @@ Project config file example (package.json)
     "version": "0.1",
     "sass": {
         "compileOnSave": true,
-        "compileStyle": "expanded",
+        "outputStyle": "expanded",
         "precision": 5,
         "dependentList": {
             "folder_template/_template.scss": [
