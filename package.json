@@ -1,25 +1,20 @@
 {
-  "name": "sass-code-kit",
-  "main": "./lib/sass-code-kit",
-  "version": "1.1.0",
-  "description": "Compile Sass and Prefix CSS",
-  "keywords": [
-    "css",
-    "scss",
-    "sass",
-    "prefix",
-    "prefixer"
-  ],
-  "repository": "https://github.com/flyzto/sass-code-kit",
-  "license": "MIT",
-  "engines": {
-    "atom": ">=1.0.0"
-  },
-  "dependencies": {
-    "node-sass": "^4.9.0",
-    "autoprefixer": "^9.0.0",
-    "postcss": "^7.0.0",
-    "postcss-scss": "^2.0.0",
-    "postcss-sorting": "^4.0.0"
-  }
+    "name": "sass-code-kit",
+    "main": "./lib/sass-code-kit",
+    "version": "1.1.0",
+    "description": "Compile Sass and Prefix CSS",
+    "keywords": ["css", "scss", "sass", "prefix", "prefixer"],
+    "activationHooks": ["language-sass:grammar-used"],
+    "repository": "https://github.com/flyzto/sass-code-kit",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0"
+    },
+    "dependencies": {
+        "node-sass": "^4.9.0",
+        "autoprefixer": "^9.0.0",
+        "postcss": "^7.0.0",
+        "postcss-scss": "^2.0.0",
+        "postcss-sorting": "^4.0.0"
+    }
 }

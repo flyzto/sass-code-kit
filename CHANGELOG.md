@@ -1,3 +1,7 @@
+## 1.2.0
+
+* Add activationHooks
+
 ## 1.0.0
 
 **NOTICE: Sass attribute 'includePath' has been changed to 'includePaths'，Need to refill the configuration item**
