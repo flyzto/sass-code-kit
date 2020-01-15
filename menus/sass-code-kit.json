@@ -16,12 +16,6 @@
             }, {
                 "label": "Sorting Rules",
                 "command": "sass-code-kit:sass-sorting"
-            }, {
-                "label": "Insert Cache Buster",
-                "command": "sass-code-kit:insert-cache-buster"
-            }, {
-                "label": "Remove Cache Buster",
-                "command": "sass-code-kit:remove-cache-buster"
             }]
         }]
     }]

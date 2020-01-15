@@ -26,7 +26,7 @@ Project config file example (package.json)
     },
     "autoprefixer": {
         "enabled": true,
-        "browsers": "> 5%",
+        "overrideBrowserslist": "> 5%",
         "execute": [
             "folder1/sass",
             "folder2/sass/a.scss"

@@ -1,3 +1,8 @@
+## 1.3.0
+
+* Use dart-sass instead of node-sass
+* Change the browsers option of autoprefixer to overrideBrowserslist
+
 ## 1.2.0
 
 * Add activationHooks

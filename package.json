@@ -19,10 +19,10 @@
         "atom": ">=1.0.0"
     },
     "dependencies": {
-        "node-sass": "^4.9.0",
-        "autoprefixer": "^9.0.0",
-        "postcss": "^7.0.0",
-        "postcss-scss": "^2.0.0",
-        "postcss-sorting": "^4.0.0"
+        "autoprefixer": "~9.7.0",
+        "postcss": "~7.0.0",
+        "postcss-scss": "~2.0.0",
+        "postcss-sorting": "~5.0.0",
+        "sass": "~1.8.0"
     }
 }
