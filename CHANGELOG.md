@@ -1,3 +1,7 @@
+## 1.3.1
+
+* Fix some minor issues
+
 ## 1.3.0
 
 * Use dart-sass instead of node-sass

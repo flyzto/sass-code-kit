@@ -23,6 +23,6 @@
         "postcss": "~7.0.0",
         "postcss-scss": "~2.0.0",
         "postcss-sorting": "~5.0.0",
-        "sass": "~1.8.0"
+        "sass": "~1.5.0"
     }
 }
